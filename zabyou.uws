@@ -1,0 +1,3 @@
+PRINT "マウスカーソルの座標"
+PRINT "x:" + G_MOUSE_X
+PRINT "y:" + G_MOUSE_Y
